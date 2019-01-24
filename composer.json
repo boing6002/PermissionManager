@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/permissionmanager",
+    "name": "boing6002/permissionmanager",
     "description": "Permission Manager dependency for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -19,13 +19,13 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel-enso/core": "3.6.*",
-        "laravel-enso/formbuilder": "2.12.*",
-        "laravel-enso/helpers": "1.10.*",
-        "laravel-enso/rolemanager": "2.5.*",
-        "laravel-enso/structuremanager": "2.5.*",
-        "laravel-enso/tutorialmanager": "2.2.*",
-        "laravel-enso/vuedatatable": "1.9.*"
+        "boing6002/core": "dev-master",
+        "boing6002/formbuilder": "dev-master",
+        "boing6002/helpers": "dev-master",
+        "boing6002/rolemanager": "dev-master",
+        "boing6002/structuremanager": "dev-master",
+        "boing6002/tutorialmanager": "dev-master",
+        "boing6002/vuedatatable": "dev-master"
     },
     "autoload": {
         "psr-4": {
